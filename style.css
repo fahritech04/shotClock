@@ -1,0 +1,10 @@
+﻿#shotClock {
+ font-size: 350px;
+ font-weight: bold;
+ color: red;
+ transition: color 0.3s ease;
+}
+
+#shotClock.red {
+ color: red;
+}
