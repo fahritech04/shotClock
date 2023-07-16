@@ -1,4 +1,8 @@
-﻿#shotClock {
+﻿body {
+ background-color: black;
+}
+
+#shotClock {
  font-size: 350px;
  font-weight: bold;
  color: red;
@@ -8,3 +12,5 @@
 #shotClock.red {
  color: red;
 }
+
+
